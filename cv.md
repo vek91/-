@@ -3,8 +3,8 @@ Front-end developer _(beginner)_
 
 ![Alt-I](./D:\Волик\html\i.jpg)
 
-| [Contacts](#contacts) | [Summary](#summary) | [Skills](#skills-in-progress) | [Expierence](#expierence) | [Code example](#code-example) | [Education](#education) |  [English](#english) |
-| ---------- | --------  | --------- | ------------ | -------------- | ----------- | --------- |
+| [Contacts](#contacts) | [Summary](#summary) | [Skills](#skills-in-progress) | [Expierence](#expierence) | [Code example](#code-example) | [Education](#education) |  [English](#english) | [Projects](#projects) |
+| ---------- | --------  | --------- | ------------ | -------------- | ----------- | --------- | ---------- |
 
 
 ## ✨Contacts
